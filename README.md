@@ -1,0 +1,1 @@
+## Demo for https://github.com/grischenko-v/gameoflife
